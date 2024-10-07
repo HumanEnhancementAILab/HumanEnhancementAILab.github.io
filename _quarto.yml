@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AI Research Hub"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://ai-research-hub.github.io/
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/
+  # sidebar:
+  #  style: "docked"
+  #  search: true
+    contents:
+       - event_1_bb.qmd
+       - event_2_bb.qmd
+  page-navigation: true
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+

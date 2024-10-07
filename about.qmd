@@ -1,0 +1,16 @@
+---
+title: "About"
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+editor: visual
+---
+
+#### Members
+
+Member A: contact
+
+Member B: contact
+
+Member C: contact

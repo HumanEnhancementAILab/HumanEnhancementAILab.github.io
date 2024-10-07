@@ -1,0 +1,26 @@
+---
+title: "Zero-Sum Mindsets Explain Aversion to New Technology"
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+editor: visual
+---
+
+## Authors
+
+Greg Nyilasy (Presenter), University of Melbourne
+
+Jonas Görgen, University of St. Gallen
+
+Emanuel de Bellis, University of St. Gallen
+
+## Abstract
+
+New technologies powered by artificial intelligence and robotics continue to populate human life. We pose the fundamental question whether progress of technology and humankind are perceived as zero-sum. We focus on autonomy, a key resource that is increasingly shared with new technologies, defined as the capacity to initiate and execute actions independently. Specifically, we examine whether people believe increases in new technologies’ autonomy comes at the expense of their own autonomy. Integrating psychological research on zero-sum mindsets, autonomy, and technology perceptions, we propose that people see technology autonomy gains as human autonomy losses, despite the possibility that the relationship is objectively a win-win. This “zero-sum autonomy mindset” in turn negatively affects new technology adoption. Two cross-sectional studies with representative samples, three experiments, and a social media field study (overall N = 39,004) provide evidence for this reasoning. Results show that the majority of respondents exhibits a zero-sum autonomy mindset, and that this mindset causally drives aversion toward technology adoption. We further show that aversion can be mitigated by applying one of two intervention strategies: “unfixing” autonomy perceptions and aligning technologies’ goals with those of people. Overall, these findings contribute to our understanding of the joint trajectory of technology and humans. They offer a plausible explanation for the common negative reception of new technologies and means to improve the human–technology relationship.
+
+## Resources
+
+Slides (*insert link*)
+
+Working Paper (*insert link*)
