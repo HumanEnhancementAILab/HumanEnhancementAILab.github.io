@@ -13,6 +13,6 @@ To foster collaboration and share knowledge on AI, we invite you to our monthly 
 # Schedule
 
 | Time | Topic | Location | Presenter |
-|:-------------:|:--------------|:--------------------------:|:-------------:|
+|:--:|:---|:--:|:--:|
 | 11 Oct 2024 10:00-11:00 AM | [Zero-Sum Mindsets Explain Aversion to New Technology](event_1_bb.qmd) | [Zoom](https://unimelb.zoom.us/j/83076215054?pwd=8lpeZPaFdzTQE38a9C8ZCHLbu1gehD.1&from=addon "Meeting ID: 830 7621 5054, Password: 036735") | Greg Nyilasy |
 | 8 Nov 2024 | [A Meta-Analysis of Customer Reactions to AI Agent Implementation](event_2_bb.qmd) |  | Sri Vishnu Srinivasa Raja |

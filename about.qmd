@@ -7,10 +7,14 @@ format:
 editor: visual
 ---
 
-#### Members
+## Members
 
-Member A: contact
+[Alex Belli](https://findanexpert.unimelb.edu.au/profile/1037679-alex-belli) (University of Melbourne) [alex.belli\@unimelb.edu.au](mailto:alex.belli@unimelb.edu.au)
 
-Member B: contact
+[Davide Orazi](https://research.monash.edu/en/persons/davide-orazi) (Monash University) [davide.orazi\@monash.edu](mailto:davide.orazi@monash.edu)
 
-Member C: contact
+[Gergely Nyilasy](https://findanexpert.unimelb.edu.au/profile/331580-gergely-nyilasy) (University of Melbourne) [gnyilasy\@unimelb.edu.au](mailto:gnyilasy@unimelb.edu.au)
+
+[Tom Whitford](https://findanexpert.unimelb.edu.au/profile/442339-tom-whitford) (University of Melbourne) [Thomas.whitford\@unimelb.edu.au](mailto:Thomas.whitford@unimelb.edu.au)
+
+[Yi-Lin Tsai](https://fbe.unimelb.edu.au/our-people/staff/management-and-marketing/yi-lin-tsai) (University of Melbourne) [yilin.tsai\@unimelb.edu.au](mailto:yilin.tsai@unimelb.edu.au)
