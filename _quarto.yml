@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "AI Research Hub"
+  title: "HEAL"
   navbar:
     left:
       - href: index.qmd
@@ -13,10 +13,10 @@ website:
     right:
       - icon: github
         href: https://ai-research-hub.github.io/
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: linkedin
-        href: https://www.linkedin.com/
+#      - icon: twitter
+#        href: https://twitter.com/
+#     - icon: linkedin
+#        href: https://www.linkedin.com/
   # sidebar:
   #  style: "docked"
   #  search: true

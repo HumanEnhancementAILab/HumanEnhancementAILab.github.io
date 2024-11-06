@@ -9,13 +9,13 @@ editor: visual
 
 ## Authors
 
-Sri Vishnu Srinivasa Raja,
+Sri Vishnu Srinivasa Raja;
 
-Davide Orazi,
+Davide Orazi;
 
-Yimin Chen,
+Yimin Chen;
 
-Alex Belli,
+Alex Belli;
 
 Dhruv Grewal
 
@@ -24,7 +24,3 @@ Dhruv Grewal
 Firms increasingly implement AI agents, such as recommendation algorithms and chatbots, to enhance customer value. Although extant research suggests customers react negatively to AI agent implementation, in some instances it can lead to positive customer reactions. To address and clarify these mixed findings, a meta-analysis of 266 effect sizes reported in 48 articles with 50,976 participants helps specify the conditions in which managers should inform customers about AI agent implementation. The results confirm that, on average, customers react negatively to AI agent implementation, but the effect is qualified by both AI characteristics that are under managers’ control (AI type, interactivity, disclosure of AI performance metrics) and exogenous contextual characteristics (product type, industry risk level, interaction outcome). These findings contribute to AI research in marketing and offer crucial managerial insights. They also suggest a detailed agenda for continued research.
 
 ## Resources
-
-Slides (*insert link*)
-
-Working Paper (*insert link*)
