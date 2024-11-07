@@ -9,15 +9,15 @@ editor: visual
 
 ## Authors
 
-Sri Vishnu Srinivasa Raja;
+Sri Vishnu Srinivasa Raja, Monash University
 
-Davide Orazi;
+Davide Orazi, Monash University
 
-Yimin Chen;
+Yimin Cheng, Monash University
 
-Alex Belli;
+Alex Belli, University of Melbourne
 
-Dhruv Grewal
+Dhruv Grewal, Babson College
 
 ## Abstract
 
