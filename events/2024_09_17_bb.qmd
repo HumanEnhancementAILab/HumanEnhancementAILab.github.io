@@ -1,0 +1,20 @@
+---
+title: "Unlocking the Potential of AI for Research"
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+editor: visual
+---
+
+## Authors
+
+Tom Whitford (Presenter), University of Melbourne
+
+## Abstract
+
+In this 120-minute workshop, Dr Tom Whitford will provide practical strategies for using AI to enhance the research process, focusing on how AI can assist in writing prompts that will help you streamline your research and publication process. After a quick summary of the various AI tools, the workshop will explore case studies of research practice including using generative AI for data analysis, literature review, and research project management. Participants will gain hands-on experience with powerful AI "hacks" to turbocharge your prompt-writing, and learn how to apply these effectively in their research projects. Additionally, Tom will address common concerns, ensuring that participants are best equipped to integrate AI into their research processes and protocols. This workshop is suited to beginner and intermediate users of GenAI tools and software.
+
+Participants are asked to complete the following form (2mins) prior to attending, to ensure the session is made relevant:  <https://forms.gle/PTh6t6en5SPckC3X8>
+
+## Resources
